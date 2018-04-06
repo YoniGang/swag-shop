@@ -1,0 +1,21 @@
+{
+  "name": "swag-shop-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/YoniGang/swag-shop.git"
+  },
+  "author": "\"Yoni Gang\u001b[D\u001b[C\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.13"
+  }
+}
